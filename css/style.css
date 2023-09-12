@@ -95,15 +95,18 @@ header {
 }
 
 #home-header {
-  background-image: url('../img/home-bg.jpg');
+  background-image: url('../img/messi.png');
 }
 
 #about-header {
   background-image: url('../img/about-bg.jpg');
 }
 
-#post-header {
-  background-image: url('../img/post-bg.jpg');
+#post-one-header {
+  background-image: url('../img/post-one.jpeg');
+}
+#post-two-header {
+  background-image: url('../img/post-two.jpeg');
 }
 
 #contact-header {
